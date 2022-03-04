@@ -1,6 +1,4 @@
-
-
-node {
+node any {
     def app
 
 
